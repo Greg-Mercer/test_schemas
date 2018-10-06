@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/Greg-Mercer/test_schemas/1field.json",
+  "title": "1-Field Schema",
+  "description": "A testing schema",
+  "type": "object",
+  "properties": {
+    "stringField": {
+      "description": "Sample field, string.",
+      "type": "string"
+    }
+  }
+}
